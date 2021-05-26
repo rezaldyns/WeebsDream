@@ -1,13 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "WeebsDream",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
-    }
-  },
-  "cordova": {}
+	"appId": "io.ionic.starter",
+	"appName": "WeebsDream",
+	"webDir": "www",
+	"bundledWebRuntime": false
 }
